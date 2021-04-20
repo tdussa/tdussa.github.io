@@ -123,7 +123,6 @@ apt dist-upgrade
 
 Install missing packages:
 ```
-  cloud-foo-bar-baz \   <----- TODO
 apt install \
   build-essential \
   clevis-initramfs \
